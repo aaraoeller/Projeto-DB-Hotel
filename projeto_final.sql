@@ -1,7 +1,10 @@
-@ALUNOS: Emerson Aarao Eller Batista
-@DISCIPLINA: Projeto de banco de dados
-@TURMA: 3°
-@CURSO: Análise e Desenvolvimento de Sistemas
+/* **
+*@ALUNOS: Emerson Aarao Eller Batista
+*@DISCIPLINA: Projeto de banco de dados
+*@TURMA: 3°
+*@CURSO: Análise e Desenvolvimento de Sistemas
+* **
+*/
 
 START TRANSACTION;
 
